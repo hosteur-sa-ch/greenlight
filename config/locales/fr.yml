@@ -260,7 +260,7 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "Salle de conférence privée %{href}"
+    about: "Hosteur MeetMe serveur de conférence privée."
     welcome: Bienvenue sur Hosteur MeetMe.
     video: 
     upgrade: Montrez-moi comment passer à la version 2.0 !
