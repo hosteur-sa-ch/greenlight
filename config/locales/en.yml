@@ -276,7 +276,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "Hosteur Meetme private conferencing server %{href} ."
+    about: "%{href} Meetme private conferencing server ."
     welcome: Welcome to Hosteur MeetMe.
     video: 
     upgrade: Show me how to upgrade to 2.0!
